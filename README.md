@@ -113,7 +113,7 @@ $ conda activate classeval
 
 Clone the repository and install necessary dependencies:
 ```
-git clone https://github.com/ClassEval-100
+git clone https://github.com/ClassEval-100/ClassEval
 $ pip install -e ClassEval
 ```
 
