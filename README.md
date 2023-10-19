@@ -44,6 +44,8 @@ Detailed information for each method in the "methods_info" field, including:
 
 * dependencies: the dependency information of the method.
 
+For more details in benchmark construction, go [here](./data/README.md).
+
 The comparison of the inputs for the ClassEval, HumanEval, and MBPP benchmarks is illustrated in the following figures:
 
 <img src="output\images\classeval example.png" alt="other benchmark example" style="zoom: 5%;" />
@@ -125,6 +127,6 @@ $ pip install -e ClassEval
 
 ### 🔍 Deep Dives
 
-**Class-Level Code Generation**: Dive into our implementation details [here](https://github.com/ClassEval-100/ClassEval/blob/main/generation).
+**Class-Level Code Generation**: Dive into our implementation details [here](./generation/README.md).
 
-**Evaluation Process**: Explore in-depth [here](https://github.com/ClassEval-100/ClassEval/blob/main/classeval_evaluation).
+**Evaluation Process**: Explore in-depth [here](./classeval_evaluation/README.md).
